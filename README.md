@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **vrszonnett@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1uR_mrcZ_tF6ZipWAFMT_h7zpf9HX78A6/view?usp=sharing](https://drive.google.com/file/d/1uR_mrcZ_tF6ZipWAFMT_h7zpf9HX78A6/view?usp=sharing)
+- 📄 Know about my experiences [CV]
 
 - ⚡ Fun fact **Rush the code in your way**
 
