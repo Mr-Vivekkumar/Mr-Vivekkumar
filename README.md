@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Java, Spring Framework (Spring Boot, Spring MVC, Spring Security, etc.), Hibernate, and databases like MySQL**
 
-- 📫 How to reach me **kamleshji.kk@gmail.com**
+- 📫 How to reach me **vrszonnett@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1uR_mrcZ_tF6ZipWAFMT_h7zpf9HX78A6/view?usp=sharing](https://drive.google.com/file/d/1uR_mrcZ_tF6ZipWAFMT_h7zpf9HX78A6/view?usp=sharing)
 
