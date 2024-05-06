@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on [Cricket Live Scoreboard and Commentary](https://github.com/kamlesh4356/Cricket-Live-Score-Performer-And-Live-Update)
 
-- 👨‍💻 All of my projects are available at [https://candid-cassata-38c9a6.netlify.app/]([https://.netlify.app/](https://main--zingy-naiad-2eff60.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://main--zingy-naiad-2eff60.netlify.app/](https://main--zingy-naiad-2eff60.netlify.app/)
 
 - 💬 Ask me about **Java, Spring Framework (Spring Boot, Spring MVC, Spring Security, etc.), Hibernate, and databases like MySQL**
 
